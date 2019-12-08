@@ -5,8 +5,6 @@
 <summary>SQL테이블 구조</summary>
 <div markdown="1">
 <img src="https://user-images.githubusercontent.com/50703892/70388581-2c5b0300-19f7-11ea-960b-714c40267b73.png">
-
-SQL파일 Teamspring/구현에 있습니다.
 </div>
 </details>
 
