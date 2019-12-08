@@ -1,6 +1,14 @@
 # [회계 웹 장부 시스템 "KAIKEI"]
 **2019-10 ~ 2019-12**
 > 일본 기업 협업 프로젝트 (개발 중)
+> <details>
+<summary>SQL테이블 구조</summary>
+<div markdown="1">
+<img src="https://d2sqqdb3t4xrq5.cloudfront.net/upload/rZ6FCNb3TuBrcmmf5/TnZDTmRiWnpGNjVjRkRvamZfcVNzOEZ4c0dKdm55VGhienoucG5n">
+
+SQL파일 Teamspring/구현에 있습니다.
+</div>
+</details>
 
 ## source code
 > [teamspring_src](https://github.com/CackaRoach/TeamSpring_src.git)
