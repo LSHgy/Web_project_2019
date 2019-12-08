@@ -26,6 +26,7 @@
 ## 시스템 간단 설명
 > 소기업 대상 복식 부기 회계 웹 장부
 
+## 업데이트
 <details>
   <summary>추가 개발 중 (12-07 기준)</summary>
   <div markdown = "1">
