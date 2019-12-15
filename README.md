@@ -28,10 +28,10 @@
 
 ## 업데이트
 <details>
-  <summary>추가 개발 중 (12-07 기준)</summary>
+  <summary>추가 개발 중 (12-16 기준)</summary>
   <div markdown = "1">
     <ul>
-      <li> 보고서 추가 개발 중 </li>
+      <li> GENERAL LEDGER 보고서 완료 </li>
       <li> 관리자 페이지 유저 관리 기능 추가 중 </li>
     </ul>
   </div>
