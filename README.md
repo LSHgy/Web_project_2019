@@ -1,6 +1,6 @@
 # [회계 웹 장부 시스템 "KAIKEI"]
 **2019-10 ~ 2019-12**
-> 일본 기업 협업 프로젝트 (개발 중)
+> 일본 기업 협업 프로젝트 
 <details>
   <summary>SQL테이블 구조</summary>
   <div markdown="1">
@@ -25,15 +25,4 @@
 
 ## 시스템 간단 설명
 > 소기업 대상 복식 부기 회계 웹 장부
-
-## 업데이트
-<details>
-  <summary>추가 개발 중 (12-16 기준)</summary>
-  <div markdown = "1">
-    <ul>
-      <li> GENERAL LEDGER 보고서 완료 </li>
-      <li> 관리자 페이지 유저 관리 기능 추가 중 </li>
-    </ul>
-  </div>
-</details>
 
